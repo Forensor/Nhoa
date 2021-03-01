@@ -1,5 +1,5 @@
 "use strict";
-class Nhoa {
+class Tai {
     static getBestMove(node, depth, max) {
         let bestMove = '';
         let bestValue = 0;
