@@ -1,4 +1,4 @@
-class Nhoa {
+class Tai {
     public static getBestMove(node: number[], depth: number, max: boolean): string {
         let bestMove: string = '';
         let bestValue: number = 0;
